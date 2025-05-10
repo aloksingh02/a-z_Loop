@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffab5003-e1a7-4343-a0f1-1fbaffec6ad7" name="Changes" comment="composite and prime number">
-      <change afterPath="$PROJECT_DIR$/src/Loop_continueStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ffab5003-e1a7-4343-a0f1-1fbaffec6ad7" name="Changes" comment="continue statement">
+      <change afterPath="$PROJECT_DIR$/src/Loop_countNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +35,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Loop/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loop_continueStatement">
-    <configuration name="Looop_geometricalProgression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Looop_geometricalProgression" />
-      <module name="a-z_Loop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Loop_countNumber">
     <configuration name="Loop_compositeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop_compositeNumber" />
       <module name="a-z_Loop" />
@@ -53,6 +45,13 @@
     </configuration>
     <configuration name="Loop_continueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop_continueStatement" />
+      <module name="a-z_Loop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loop_countNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop_countNumber" />
       <module name="a-z_Loop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loop_countNumber" />
         <item itemvalue="Application.Loop_continueStatement" />
         <item itemvalue="Application.Loop_compositeNumber" />
         <item itemvalue="Application.Loop_primeNumber" />
         <item itemvalue="Application.Loop_highestFactor" />
-        <item itemvalue="Application.Looop_geometricalProgression" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746910098902</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="continue statement">
+      <option name="closed" value="true" />
+      <created>1746913407330</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746913407330</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -198,7 +205,8 @@
     <MESSAGE value="geometrical progression easy way" />
     <MESSAGE value="highest factor" />
     <MESSAGE value="composite and prime number" />
-    <option name="LAST_COMMIT_MESSAGE" value="composite and prime number" />
+    <MESSAGE value="continue statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="continue statement" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
