@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffab5003-e1a7-4343-a0f1-1fbaffec6ad7" name="Changes" comment="geometrical progression">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop_AP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loop_AP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Looop_geometricalProgression.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,14 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Loop/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loop_AP">
+  <component name="RunManager" selected="Application.Looop_geometricalProgression">
+    <configuration name="Looop_geometricalProgression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Looop_geometricalProgression" />
+      <module name="a-z_Loop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Loop_AP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop_AP" />
       <module name="a-z_Loop" />
@@ -65,20 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop_reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop_reverse" />
-      <module name="a-z_Loop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Looop_geometricalProgression" />
         <item itemvalue="Application.Loop_AP" />
         <item itemvalue="Application.Loop_geometricalProgression" />
         <item itemvalue="Application.Loop_arithmatic" />
         <item itemvalue="Application.Loop_actualAP" />
-        <item itemvalue="Application.Loop_reverse" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746901264551</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="geometrical progression">
+      <option name="closed" value="true" />
+      <created>1746903648006</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746903648006</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
