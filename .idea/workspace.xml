@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffab5003-e1a7-4343-a0f1-1fbaffec6ad7" name="Changes" comment="geometrical progression easy way">
-      <change afterPath="$PROJECT_DIR$/src/Loop_highestFactor.java" afterDir="false" />
+    <list default="true" id="ffab5003-e1a7-4343-a0f1-1fbaffec6ad7" name="Changes" comment="highest factor">
+      <change afterPath="$PROJECT_DIR$/src/Loop_compositeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Loop/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loop_highestFactor">
+  <component name="RunManager" selected="Application.Loop_compositeNumber">
     <configuration name="Looop_geometricalProgression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Looop_geometricalProgression" />
       <module name="a-z_Loop" />
@@ -51,15 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop_arithmatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop_arithmatic" />
-      <module name="a-z_Loop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Loop_geometricalProgression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop_geometricalProgression" />
+    <configuration name="Loop_compositeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop_compositeNumber" />
       <module name="a-z_Loop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,13 +65,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Loop_primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop_primeNumber" />
+      <module name="a-z_Loop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loop_compositeNumber" />
+        <item itemvalue="Application.Loop_primeNumber" />
         <item itemvalue="Application.Loop_highestFactor" />
         <item itemvalue="Application.Looop_geometricalProgression" />
         <item itemvalue="Application.Loop_AP" />
-        <item itemvalue="Application.Loop_geometricalProgression" />
-        <item itemvalue="Application.Loop_arithmatic" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746904262645</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="highest factor">
+      <option name="closed" value="true" />
+      <created>1746908120218</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1746908120218</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -180,7 +188,8 @@
     <MESSAGE value="arithmatic progression" />
     <MESSAGE value="geometrical progression" />
     <MESSAGE value="geometrical progression easy way" />
-    <option name="LAST_COMMIT_MESSAGE" value="geometrical progression easy way" />
+    <MESSAGE value="highest factor" />
+    <option name="LAST_COMMIT_MESSAGE" value="highest factor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
