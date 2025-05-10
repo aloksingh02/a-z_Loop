@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffab5003-e1a7-4343-a0f1-1fbaffec6ad7" name="Changes" comment="continue statement">
-      <change afterPath="$PROJECT_DIR$/src/Loop_countNumber.java" afterDir="false" />
+    <list default="true" id="ffab5003-e1a7-4343-a0f1-1fbaffec6ad7" name="Changes" comment="Counting digit using loop">
+      <change afterPath="$PROJECT_DIR$/src/Loop_sumOfDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Loop/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loop_countNumber">
+  <component name="RunManager" selected="Application.Loop_sumOfDigit">
     <configuration name="Loop_compositeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop_compositeNumber" />
       <module name="a-z_Loop" />
@@ -57,15 +58,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop_highestFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop_highestFactor" />
+    <configuration name="Loop_sumOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop_sumOfDigit" />
       <module name="a-z_Loop" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loop_primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop_primeNumber" />
+    <configuration name="Loop_sumOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop_sumOfNumber" />
       <module name="a-z_Loop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loop_sumOfDigit" />
+        <item itemvalue="Application.Loop_sumOfNumber" />
         <item itemvalue="Application.Loop_countNumber" />
         <item itemvalue="Application.Loop_continueStatement" />
         <item itemvalue="Application.Loop_compositeNumber" />
-        <item itemvalue="Application.Loop_primeNumber" />
-        <item itemvalue="Application.Loop_highestFactor" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746913407330</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Counting digit using loop">
+      <option name="closed" value="true" />
+      <created>1746914907327</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746914907327</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,7 +215,8 @@
     <MESSAGE value="highest factor" />
     <MESSAGE value="composite and prime number" />
     <MESSAGE value="continue statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="continue statement" />
+    <MESSAGE value="Counting digit using loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Counting digit using loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
