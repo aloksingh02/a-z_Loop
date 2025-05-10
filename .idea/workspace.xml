@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffab5003-e1a7-4343-a0f1-1fbaffec6ad7" name="Changes" comment="product of digit using loop">
-      <change afterPath="$PROJECT_DIR$/src/Loop_productOfNonZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop_sumOfEvenDigit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,14 +36,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_Loop/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loop_productOfNonZero">
-    <configuration name="Loop_countNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loop_countNumber" />
-      <module name="a-z_Loop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Loop_sumOfEvenDigit">
     <configuration name="Loop_productNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop_productNumber" />
       <module name="a-z_Loop" />
@@ -65,6 +58,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Loop_sumOfEvenDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loop_sumOfEvenDigit" />
+      <module name="a-z_Loop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Loop_sumOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loop_sumOfNumber" />
       <module name="a-z_Loop" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loop_sumOfEvenDigit" />
         <item itemvalue="Application.Loop_productOfNonZero" />
         <item itemvalue="Application.Loop_productNumber" />
         <item itemvalue="Application.Loop_sumOfDigit" />
         <item itemvalue="Application.Loop_sumOfNumber" />
-        <item itemvalue="Application.Loop_countNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +227,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746919371320</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="product of digit using loop">
+      <option name="closed" value="true" />
+      <created>1746920855424</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1746920855424</updated>
+    </task>
+    <task id="LOCAL-00019" summary="product of digit using loop">
+      <option name="closed" value="true" />
+      <created>1746920892432</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1746920892432</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -240,6 +256,7 @@
     <MESSAGE value="composite and prime number" />
     <MESSAGE value="continue statement" />
     <MESSAGE value="Counting digit using loop" />
+    <MESSAGE value="product of  non zero digit using loop" />
     <MESSAGE value="product of digit using loop" />
     <option name="LAST_COMMIT_MESSAGE" value="product of digit using loop" />
   </component>
